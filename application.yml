@@ -10,3 +10,5 @@ logging:
   level:
     io:
       pivotal: DEBUG
+user.serviceUrl: //user-service/user
+catalog.serviceUrl: //catalog-service/catalog
