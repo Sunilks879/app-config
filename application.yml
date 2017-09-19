@@ -10,6 +10,6 @@ logging:
   level:
     io:
       pivotal: DEBUG
-user.serviceUrl: //user-service/user
-catalog.serviceUrl: //catalog-service/catalog
+user.serviceUrl: user-service/user
+catalog.serviceUrl: catalog-service/catalog
 gateway.serviceId: gateway-application
