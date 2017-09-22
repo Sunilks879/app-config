@@ -13,4 +13,4 @@ logging:
 user.serviceUrl: user-service/user
 catalog.serviceUrl: catalog-service/catalog
 gateway.serviceId: gateway-application
-app.message: Auto Referesh Config Server
+app.message: Auto Referesh Config Server Test
